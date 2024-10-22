@@ -1,0 +1,24 @@
+INPUT:
+==============================
+addStudent 151020 Stefan
+updateStudent 151020 midterm1 78
+updateStudent 151020 midterm2 80
+updateStudent 151020 labs 8
+getFirstNStudents 1
+
+addStudent 151020 Stefan
+updateStudent 151020 midterm1 78
+updateStudent 151020 midterm2 80
+updateStudent 151020 labs 8
+getGradeDistribution
+
+OUTPUT:
+==============================
+ID: 151020 Name: Stefan First midterm: 78 Second midterm 80 Labs: 8 Summary points: 79.10 Grade: 8
+
+5 -> 0
+6 -> 0
+7 -> 0
+8 -> 1
+9 -> 0
+10 -> 0

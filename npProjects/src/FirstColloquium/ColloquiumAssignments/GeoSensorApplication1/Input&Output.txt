@@ -1,0 +1,10 @@
+INPUT:
+==============================
+1 2 5 1 4
+1 2 4 6:3 7:9 8:4
+2 2 4 2:-2 3:-6
+
+OUTPUT:
+==============================
+Access point on {1.0, 2.0} distance:5.0 from:1 - to:4
+Error in timestamp: 2 from sensor: 2

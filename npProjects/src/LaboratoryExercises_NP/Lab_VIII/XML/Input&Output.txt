@@ -1,0 +1,18 @@
+INPUT:
+==============================
+1
+
+==============================
+
+2
+
+OUTPUT:
+==============================
+<student type="redoven" program="KNI">Trajce Trajkovski</student>
+
+==============================
+
+<name type="redoven">
+	<first-name>trajce</first-name>
+	<last-name>trajkovski</last-name>
+</name>

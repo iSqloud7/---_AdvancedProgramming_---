@@ -1,0 +1,12 @@
+INPUT:
+==============================
+42 C2 1252 C33 1029
+36
+
+OUTPUT:
+==============================
+
+---READING FROM INPUT STREAM---
+2
+---PRINTING LARGEST ORDER TO OUTPUT STREAM---
+42 2

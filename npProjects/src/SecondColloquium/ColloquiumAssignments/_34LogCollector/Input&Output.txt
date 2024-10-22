@@ -1,0 +1,17 @@
+INPUT:
+==============================
+addLog service2 microservice3 ERROR Log message 1.This error is a fatal error!! It was caused by an exception. 101
+addLog service2 microservice3 ERROR Log message 2. 252
+addLog service2 microservice1 ERROR Log message 3. 355
+addLog service1 microservice3 WARN Log message 4. 437
+addLog service1 microservice1 INFO Log message 5. 532
+addLog service1 microservice1 INFO Log message 6. 659
+addLog service2 microservice2 ERROR Log message 7. 761
+addLog service1 microservice2 WARN Log message 8.This action might cause error. 861
+addLog service2 microservice2 INFO Log message 9. 953
+addLog service1 microservice3 WARN Log message 10.This action might cause error. 1056
+getSeverityDistribution service1 microservice1
+
+OUTPUT:
+==============================
+0 -> 2

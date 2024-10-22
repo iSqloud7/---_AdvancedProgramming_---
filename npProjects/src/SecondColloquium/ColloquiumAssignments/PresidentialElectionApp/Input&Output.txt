@@ -1,0 +1,24 @@
+INPUT:
+==============================
+1;Poll1;CandidateA,100;CandidateB,150
+2;Poll2;CandidateA,200;CandidateC,300
+3;Poll1;CandidateB,50;CandidateC,100
+
+OUTPUT:
+==============================
+900
+ALL VOTES
+CandidateA -> 300
+CandidateB -> 200
+CandidateC -> 400
+VOTES FOR ELECTION UNIT 1
+CandidateA -> 100
+CandidateB -> 150
+VOTES FOR ELECTION UNIT 2
+CandidateA -> 200
+CandidateC -> 300
+VOTES FOR ELECTION UNIT 3
+CandidateB -> 50
+CandidateC -> 100
+VOTES FOR ELECTION UNIT 4
+VOTES FOR ELECTION UNIT 5

@@ -1,0 +1,28 @@
+public class MembershipTest {
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        int length = scanner.nextInt();
+        scanner.nextLine();
+        for (int i = 0; i < length; i++) {
+            String userName = scanner.nextLine();
+            String password = scanner.nextLine();
+            String email = scanner.nextLine();
+            String country = scanner.nextLine();
+            Integer age = scanner.nextInt();
+            scanner.nextLine();
+
+            Membership.createUser(userName, password, email, country, age);
+        }
+
+        for (int i = 0; i < length; i++) {
+            System.out.println(Membership.getNDifferentUsersByEmail());
+            System.out.println(Membership.getUsersOrderedByEmail());
+            System.out.println(Membership.deleteUser(i + 1));
+        }
+
+        System.out.println(Membership.deleteUser(1));
+    }
+}

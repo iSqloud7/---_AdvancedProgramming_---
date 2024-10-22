@@ -1,0 +1,591 @@
+INPUT:
+==============================
+typical_usage
+Banka na RM
+50
+Alana Pagel
+96124963.59$
+Kathe Vath
+104071827.99$
+Sara Flenniken
+103489869.36$
+Shauna Irick
+99230857.77$
+Leon Brokaw
+100949324.96$
+Guillermina Haymond
+101372350.52$
+Sherie Pestana
+100772483.38$
+Shirlene Reichard
+98451795.79$
+Jerrica Kafka
+100608943.69$
+Nida Garg
+96374183.01$
+Ellamae Marshell
+101834753.75$
+Ranee Ricca
+96386667.01$
+Elois Philip
+96767866.34$
+Roland June
+99245215.19$
+Marvis Lemarr
+95732058.60$
+Burl Friese
+100232415.35$
+Reggie Olah
+104652507.25$
+Isis Ballard
+100717280.66$
+Bernardine Munford
+104257015.83$
+Johnette Greenhaw
+103471815.46$
+Olimpia Ryan
+103239439.43$
+Sha Duguay
+96926529.60$
+Donn Kurt
+100902436.77$
+Joel Cao
+96522430.27$
+Jamika Epstein
+104102902.74$
+Moira Haar
+102396011.82$
+Tiffani Bellantoni
+98824115.92$
+Tennille Hanzlik
+101943340.74$
+Dwayne Bazile
+96723845.51$
+Luigi Blaise
+103007704.71$
+Paris Fagan
+100668747.81$
+Ngan Raynor
+100211914.45$
+Alden Mirarchi
+102954898.08$
+Tangela Fernandez
+99531915.08$
+Liza Breaux
+103806099.54$
+Annice Lipman
+97834836.56$
+Broderick Arcand
+102290753.08$
+Terry Cygan
+97565192.65$
+Adriene Janz
+104240885.04$
+Joaquin Larocque
+96872074.82$
+Sabrina Hilger
+102611005.33$
+Glayds Hinch
+101573590.11$
+Nereida Mickley
+101278626.39$
+Elaina Hupp
+103829407.46$
+Karissa Brousseau
+98142582.89$
+America Kyle
+99146314.73$
+Lucie Nakata
+102881106.42$
+Chantel Grewell
+96314595.10$
+Logan Hogans
+97531477.92$
+Herb Mojarro
+96535514.77$
+transaction
+FlatPercent
+97854.22$
+20
+4 33
+transaction
+FlatAmount
+98091.14$
+10273.03$
+19 9
+transaction
+FlatAmount
+97781.88$
+10029.55$
+27 41
+transaction
+FlatPercent
+104642.02$
+45
+30 1
+transaction
+FlatAmount
+95760.77$
+9811.63$
+7 20
+transaction
+FlatAmount
+101486.10$
+10377.16$
+11 24
+transaction
+FlatAmount
+99204.78$
+9813.90$
+17 17
+transaction
+FlatAmount
+102725.61$
+9895.83$
+3 25
+transaction
+FlatAmount
+96297.44$
+10480.20$
+43 4
+transaction
+FlatAmount
+98375.44$
+10360.05$
+18 27
+print
+stop
+
+==============================
+
+typical_usage
+Banka na RM
+50
+Alana Pagel
+99491717.74$
+Kathe Vath
+101034259.42$
+Sara Flenniken
+102239934.88$
+Shauna Irick
+98340958.01$
+Leon Brokaw
+97863887.92$
+Guillermina Haymond
+99718355.69$
+Sherie Pestana
+97717745.56$
+Shirlene Reichard
+95050275.07$
+Jerrica Kafka
+101397911.06$
+Nida Garg
+102118425.55$
+Ellamae Marshell
+99210032.91$
+Ranee Ricca
+98977997.00$
+Elois Philip
+101387679.55$
+Roland June
+99206459.15$
+Marvis Lemarr
+101591681.64$
+Burl Friese
+99820214.42$
+Reggie Olah
+102426247.25$
+Isis Ballard
+103575023.55$
+Bernardine Munford
+100898571.41$
+Johnette Greenhaw
+95369550.73$
+Olimpia Ryan
+100877885.02$
+Sha Duguay
+101840155.71$
+Donn Kurt
+97414029.95$
+Joel Cao
+101283649.59$
+Jamika Epstein
+97272302.74$
+Moira Haar
+99618843.49$
+Tiffani Bellantoni
+100029287.21$
+Tennille Hanzlik
+96074275.74$
+Dwayne Bazile
+101633795.28$
+Luigi Blaise
+98076759.13$
+Paris Fagan
+95329168.92$
+Ngan Raynor
+98852735.01$
+Alden Mirarchi
+104400645.29$
+Tangela Fernandez
+98512617.18$
+Liza Breaux
+104278086.43$
+Annice Lipman
+101869272.36$
+Broderick Arcand
+103295196.13$
+Terry Cygan
+95478724.92$
+Adriene Janz
+97867714.22$
+Joaquin Larocque
+95948559.19$
+Sabrina Hilger
+98272587.48$
+Glayds Hinch
+99533008.66$
+Nereida Mickley
+100636571.70$
+Elaina Hupp
+104550334.32$
+Karissa Brousseau
+102506217.95$
+America Kyle
+97875987.79$
+Lucie Nakata
+97583055.41$
+Chantel Grewell
+101373719.89$
+Logan Hogans
+97260587.80$
+Herb Mojarro
+104846882.01$
+transaction
+FlatPercent
+97175.67$
+37
+8 1
+transaction
+FlatAmount
+104536.23$
+9583.35$
+28 8
+transaction
+FlatAmount
+102757.10$
+10461.81$
+40 18
+transaction
+FlatPercent
+97198.46$
+26
+42 31
+transaction
+FlatAmount
+103913.44$
+10259.30$
+47 47
+transaction
+FlatPercent
+97485.74$
+16
+33 20
+transaction
+FlatPercent
+100186.45$
+19
+24 37
+transaction
+FlatPercent
+102032.31$
+44
+19 14
+transaction
+FlatPercent
+99672.79$
+19
+19 6
+transaction
+FlatPercent
+103522.42$
+17
+30 47
+print
+stop
+
+OUTPUT:
+==============================
+Transaction amount: 97854.22$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 98091.14$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 97781.88$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 104642.02$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 95760.77$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 101486.10$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 99204.78$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 102725.61$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 96297.44$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 98375.44$
+Transaction description: FlatAmount
+Transaction successful? true
+Name: Banka na RM
+
+Name: Alana Pagel
+Balance: 96124963.59$
+Name: Kathe Vath
+Balance: 104176470.01$
+Name: Sara Flenniken
+Balance: 103489869.36$
+Name: Shauna Irick
+Balance: 99118236.33$
+Name: Leon Brokaw
+Balance: 100928197.38$
+Name: Guillermina Haymond
+Balance: 101372350.52$
+Name: Sherie Pestana
+Balance: 100772483.38$
+Name: Shirlene Reichard
+Balance: 98346223.39$
+Name: Jerrica Kafka
+Balance: 100608943.69$
+Name: Nida Garg
+Balance: 96472274.15$
+Name: Ellamae Marshell
+Balance: 101834753.75$
+Name: Ranee Ricca
+Balance: 96274803.75$
+Name: Elois Philip
+Balance: 96767866.34$
+Name: Roland June
+Balance: 99245215.19$
+Name: Marvis Lemarr
+Balance: 95732058.60$
+Name: Burl Friese
+Balance: 100232415.35$
+Name: Reggie Olah
+Balance: 104652507.25$
+Name: Isis Ballard
+Balance: 100707466.76$
+Name: Bernardine Munford
+Balance: 104148280.34$
+Name: Johnette Greenhaw
+Balance: 103363451.29$
+Name: Olimpia Ryan
+Balance: 103335200.20$
+Name: Sha Duguay
+Balance: 96926529.60$
+Name: Donn Kurt
+Balance: 100902436.77$
+Name: Joel Cao
+Balance: 96522430.27$
+Name: Jamika Epstein
+Balance: 104204388.84$
+Name: Moira Haar
+Balance: 102498737.43$
+Name: Tiffani Bellantoni
+Balance: 98824115.92$
+Name: Tennille Hanzlik
+Balance: 101933904.75$
+Name: Dwayne Bazile
+Balance: 96723845.51$
+Name: Luigi Blaise
+Balance: 103007704.71$
+Name: Paris Fagan
+Balance: 100517016.89$
+Name: Ngan Raynor
+Balance: 100211914.45$
+Name: Alden Mirarchi
+Balance: 102954898.08$
+Name: Tangela Fernandez
+Balance: 99629769.30$
+Name: Liza Breaux
+Balance: 103806099.54$
+Name: Annice Lipman
+Balance: 97834836.56$
+Name: Broderick Arcand
+Balance: 102290753.08$
+Name: Terry Cygan
+Balance: 97565192.65$
+Name: Adriene Janz
+Balance: 104240885.04$
+Name: Joaquin Larocque
+Balance: 96872074.82$
+Name: Sabrina Hilger
+Balance: 102611005.33$
+Name: Glayds Hinch
+Balance: 101671371.99$
+Name: Nereida Mickley
+Balance: 101278626.39$
+Name: Elaina Hupp
+Balance: 103722629.82$
+Name: Karissa Brousseau
+Balance: 98142582.89$
+Name: America Kyle
+Balance: 99146314.73$
+Name: Lucie Nakata
+Balance: 102881106.42$
+Name: Chantel Grewell
+Balance: 96314595.10$
+Name: Logan Hogans
+Balance: 97531477.92$
+Name: Herb Mojarro
+Balance: 96535514.77$
+
+Total provisions: 147701.05$
+Total transfers: 992219.40$
+
+==============================
+
+Transaction amount: 97175.67$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 104536.23$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 102757.10$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 97198.46$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 103913.44$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 97485.74$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 100186.45$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 102032.31$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 99672.79$
+Transaction description: FlatPercent
+Transaction successful? true
+Transaction amount: 103522.42$
+Transaction description: FlatPercent
+Transaction successful? true
+Name: Banka na RM
+
+Name: Alana Pagel
+Balance: 99491717.74$
+Name: Kathe Vath
+Balance: 101131435.09$
+Name: Sara Flenniken
+Balance: 102239934.88$
+Name: Shauna Irick
+Balance: 98340958.01$
+Name: Leon Brokaw
+Balance: 97863887.92$
+Name: Guillermina Haymond
+Balance: 99718355.69$
+Name: Sherie Pestana
+Balance: 97817418.35$
+Name: Shirlene Reichard
+Balance: 95050275.07$
+Name: Jerrica Kafka
+Balance: 101369316.87$
+Name: Nida Garg
+Balance: 102118425.55$
+Name: Ellamae Marshell
+Balance: 99210032.91$
+Name: Ranee Ricca
+Balance: 98977997.00$
+Name: Elois Philip
+Balance: 101387679.55$
+Name: Roland June
+Balance: 99206459.15$
+Name: Marvis Lemarr
+Balance: 101693713.95$
+Name: Burl Friese
+Balance: 99820214.42$
+Name: Reggie Olah
+Balance: 102426247.25$
+Name: Isis Ballard
+Balance: 103575023.55$
+Name: Bernardine Munford
+Balance: 101001328.51$
+Name: Johnette Greenhaw
+Balance: 95104013.87$
+Name: Olimpia Ryan
+Balance: 100975370.76$
+Name: Sha Duguay
+Balance: 101840155.71$
+Name: Donn Kurt
+Balance: 97414029.95$
+Name: Joel Cao
+Balance: 101283649.59$
+Name: Jamika Epstein
+Balance: 97153080.95$
+Name: Moira Haar
+Balance: 99618843.49$
+Name: Tiffani Bellantoni
+Balance: 100029287.21$
+Name: Tennille Hanzlik
+Balance: 96074275.74$
+Name: Dwayne Bazile
+Balance: 101519675.70$
+Name: Luigi Blaise
+Balance: 98076759.13$
+Name: Paris Fagan
+Balance: 95208047.76$
+Name: Ngan Raynor
+Balance: 98949933.47$
+Name: Alden Mirarchi
+Balance: 104400645.29$
+Name: Tangela Fernandez
+Balance: 98399533.84$
+Name: Liza Breaux
+Balance: 104278086.43$
+Name: Annice Lipman
+Balance: 101869272.36$
+Name: Broderick Arcand
+Balance: 103295196.13$
+Name: Terry Cygan
+Balance: 95578911.37$
+Name: Adriene Janz
+Balance: 97867714.22$
+Name: Joaquin Larocque
+Balance: 95948559.19$
+Name: Sabrina Hilger
+Balance: 98159368.57$
+Name: Glayds Hinch
+Balance: 99533008.66$
+Name: Nereida Mickley
+Balance: 100514101.76$
+Name: Elaina Hupp
+Balance: 104550334.32$
+Name: Karissa Brousseau
+Balance: 102506217.95$
+Name: America Kyle
+Balance: 97875987.79$
+Name: Lucie Nakata
+Balance: 97583055.41$
+Name: Chantel Grewell
+Balance: 101466983.01$
+Name: Logan Hogans
+Balance: 97260587.80$
+Name: Herb Mojarro
+Balance: 104846882.01$
+
+Total provisions: 207594.13$
+Total transfers: 1008480.61$

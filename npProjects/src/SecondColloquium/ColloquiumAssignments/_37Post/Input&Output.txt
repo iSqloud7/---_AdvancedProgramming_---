@@ -1,0 +1,32 @@
+INPUT:
+==============================
+np.finki
+This is a test post for Advanced programming
+addComment;user1;0;To thousand number positive. Ago where feeling much difference become song.
+addComment;user2;1;Beautiful as rich view position less many. Around account approach city. Between east of tree ball be.
+addComment;user1;2;Television into daughter high have mouth house. Word another official cup thank.
+addComment;user2;3;Card land throughout friend recent bit land. Start but similar develop long his. Baby certainly street tend position piece.
+addComment;user1;4;Just off identify hotel usually growth. Her off scientist white well color. Increase leg degree attention keep.
+likes;1;1;1;2;2;2;2;3;2;3;3;4;4;0;1
+print
+
+OUTPUT:
+==============================
+Post: This is a test post for Advanced programming
+Written by: np.finki
+Comments:
+        Comment: Television into daughter high have mouth house. Word another official cup thank.
+        Written by: user1
+        Likes: 5
+        Comment: Beautiful as rich view position less many. Around account approach city. Between east of tree ball be.
+        Written by: user2
+        Likes: 4
+        Comment: Card land throughout friend recent bit land. Start but similar develop long his. Baby certainly street tend position piece.
+        Written by: user2
+        Likes: 3
+        Comment: Just off identify hotel usually growth. Her off scientist white well color. Increase leg degree attention keep.
+        Written by: user1
+        Likes: 2
+        Comment: To thousand number positive. Ago where feeling much difference become song.
+        Written by: user1
+        Likes: 1

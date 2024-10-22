@@ -1,0 +1,21 @@
+INPUT:
+==============================
+2
+4
+A NP
+B FINKi
+C NPP
+D ke_polozam_NP
+4
+C NP
+B FIN
+D APS
+E 2022/2023
+
+OUTPUT:
+==============================
+A -> NP
+B -> FINKiFIN
+C -> NPPNP
+D -> ke_polozam_NPAPS
+E -> 2022/2023

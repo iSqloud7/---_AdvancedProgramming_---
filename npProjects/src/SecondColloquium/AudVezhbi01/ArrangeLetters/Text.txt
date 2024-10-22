@@ -1,0 +1,14 @@
+You are given a string and your task is to arrange the words in the string as follows:
+• each word should begin with a capital letter
+• the lowercase letters should be arranged alphabetically
+Afterwards, the words in the sentence should be arranged alphabetically.
+Example:
+"kO pSk sO" should return: "Ok Os Skp"
+Input parameters:
+• sentence - String
+Constraints:
+• sentence will have between 1 and 1000 characters inclusive,
+• every character will be a letter (’a’-’z’ ’A’-’Z’) or ’ ’ - space.
+• each word in sentence will have exactly one capital letter.
+• there will be no two consecutive spaces, and no spaces at the beginning or end of the string.
+• a word may consist of only one capital letter

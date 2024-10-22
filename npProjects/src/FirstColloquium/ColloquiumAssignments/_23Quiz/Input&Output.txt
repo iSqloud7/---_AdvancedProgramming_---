@@ -1,0 +1,52 @@
+INPUT:
+==============================
+3
+MC;Question1;3;E
+MC;Question2;4;E
+TF;Question3;2;false
+3
+D
+B
+false
+1
+
+3
+MC;Question1;3;E
+MC;Question2;4;E
+TF;Question3;2;false
+3
+D
+B
+false
+2
+
+5
+MC;Question1;2;A
+TF;Question2;2;true
+TF;Question3;2;false
+TF;Question4;2;true
+MC;Question5;5;H
+5
+A
+false
+true
+true
+C
+1
+
+OUTPUT:
+==============================
+Multiple Choice Question: Question2 Points 4 Answer: E
+Multiple Choice Question: Question1 Points 3 Answer: E
+True/False Question: Question3 Points: 2 Answer: false
+
+1. -0.60
+2. -0.80
+3. 2.00
+Total points: 0.60
+
+H is not allowed option for this question
+Multiple Choice Question: Question1 Points 2 Answer: A
+True/False Question: Question2 Points: 2 Answer: true
+True/False Question: Question3 Points: 2 Answer: false
+True/False Question: Question4 Points: 2 Answer: true

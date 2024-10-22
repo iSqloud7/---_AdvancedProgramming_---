@@ -1,0 +1,14 @@
+INPUT:
+==============================
+addCall 1 076111111 076111112 1000
+addCall 2 076111111 076111113 2100
+updateCall 1 1050 ANSWER
+updateCall 1 1700 END
+updateCall 2 2150 ANSWER
+updateCall 2 3000 END
+printChronologicalReport 076111111
+
+OUTPUT:
+==============================
+D 076111112 1050 1700 10:50
+D 076111113 2150 3000 14:10

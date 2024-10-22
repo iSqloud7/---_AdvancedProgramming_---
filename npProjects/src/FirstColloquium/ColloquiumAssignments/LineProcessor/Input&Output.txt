@@ -1,0 +1,16 @@
+INPUT:
+==============================
+FINKI
+Napredno programiranje
+Naaaaapredno programiraaaanje
+Javaaa
+
+Naaapredno
+programiraanje
+zadaca
+
+OUTPUT:
+==============================
+Naaaaapredno programiraaaanje
+
+zadaca

@@ -1,0 +1,23 @@
+INPUT:
+==============================
+10
+update NE0000AA A1 2024-01-15T19:09:32 true
+update NE0001AA A5 2024-01-15T18:09:32 true
+update NE0002AA A4 2024-01-15T21:11:32 true
+update NE0003AA A7 2024-01-15T17:45:32 true
+update NE0004AA A9 2024-01-15T17:38:32 true
+update NE0000AA A1 2024-01-15T19:15:32 false
+update NE0001AA A5 2024-01-15T19:09:32 false
+update NE0002AA A4 2024-01-15T22:13:44 false
+update NE0003AA A7 2024-01-15T20:45:32 false
+update NE0004AA A9 2024-01-15T18:50:00 false
+history
+
+OUTPUT:
+==============================
+PARKING HISTORY
+Registration number: NE0003AA Spot: A7 Start timestamp: 2024-01-15T17:45:32 End timestamp: 2024-01-15T20:45:32 Duration in minutes: 180
+Registration number: NE0004AA Spot: A9 Start timestamp: 2024-01-15T17:38:32 End timestamp: 2024-01-15T18:50 Duration in minutes: 71
+Registration number: NE0002AA Spot: A4 Start timestamp: 2024-01-15T21:11:32 End timestamp: 2024-01-15T22:13:44 Duration in minutes: 62
+Registration number: NE0001AA Spot: A5 Start timestamp: 2024-01-15T18:09:32 End timestamp: 2024-01-15T19:09:32 Duration in minutes: 60
+Registration number: NE0000AA Spot: A1 Start timestamp: 2024-01-15T19:09:32 End timestamp: 2024-01-15T19:15:32 Duration in minutes: 6

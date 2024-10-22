@@ -1,0 +1,15 @@
+INPUT:
+==============================
+Korpa
+addUser 1 stefan
+addRestaurant 1 Morino 2 4
+addAddress 1 doma 2 3
+registerDeliveryPerson 1 Petko 1 2
+registerDeliveryPerson 2 Riste 2 3
+orderFood 1 doma 1 450
+printDeliveryPeople
+
+OUTPUT:
+==============================
+ID: 2 Name: Riste Total deliveries: 1 Total delivery fee: 90.00 Average delivery fee: 90.00
+ID: 1 Name: Petko Total deliveries: 0 Total delivery fee: 0.00 Average delivery fee: 0.00

@@ -1,0 +1,52 @@
+public class AirlineTest {
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in, Charset.forName("UTF-8"));
+        String name = scanner.nextLine();
+
+        Airline airline = new Airline(name);
+
+        int airportsNum = Integer.parseInt(scanner.nextLine());
+
+        for (int i = 0; i < airportsNum; i++) {
+            String line = scanner.nextLine();
+            String[] parts = line.split(regex"\\s+");
+            String airportName = parts[0];
+            String code = parts[1];
+            airline.addAirport(airportName, code);
+        }
+
+        int flightsNum = Integer.parseInt(scanner.nextLine());
+
+        for (int i = 0; i < flightsNum; i++) {
+            String line = scanner.nextLine();
+            String[] parts = line.split(regex"\\s+");
+            String code1 = parts[0];
+            String code2 = parts[1];
+            long duration = Long.parseLong(parts[2]);
+            airline.addFlight(code1, code2, duration);
+        }
+
+        int choice = Integer.parseInt(scanner.nextLine());
+
+        if (choice == 1) {
+            String codeSearch = scanner.nextLine();
+            System.out.println("SEARCH");
+
+            try {
+                airline.search(codeSearch);
+            } catch (AirportNotFoundException e) {
+                System.out.println(e.getMessage());
+            }
+        } else if (choice == 2) {
+            System.out.println("ALL FLIGHTS");
+            System.out.printf("%d\n", airline.allFlights());
+        } else {
+            System.out.println("ALL AIRPORTS");
+            airline.printAirports();
+        }
+
+        scanner.close();
+    }
+}

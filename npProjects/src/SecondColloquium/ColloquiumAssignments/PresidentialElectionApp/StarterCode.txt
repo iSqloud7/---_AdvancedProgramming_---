@@ -1,0 +1,17 @@
+public class PresidentialElectionAppTest {
+
+    public static void main(String[] args) {
+
+        PresidentialElectionApp app = new PresidentialElectionApp();
+
+        System.out.println(app.readDate(System.in));
+
+        System.out.println("ALL VOTES");
+        app.votesPerCandidate(null).forEach((k, v) -> System.out.printf("%s -> %d%n", k, v));
+
+        for (int i = 1; i < 6; i++) {
+            System.out.println("VOTES FOR ELECTION UNIT " + i);
+            app.votesPerCandidate(i).forEach((k, v) -> System.out.printf("%s -> %d%n", k, v));
+        }
+    }
+}

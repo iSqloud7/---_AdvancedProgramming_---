@@ -1,0 +1,11 @@
+INPUT:
+==============================
+42 C39 628 P47 796 C2 444 P41 217
+24 C41 382 C37 1048 C3 1230
+
+OUTPUT:
+==============================
+---READING FROM INPUT STREAM---
+The order with id 24 has less items than the minimum allowed.
+---PRINTING LARGEST ORDER TO OUTPUT STREAM---
+14 4 2 2 2185

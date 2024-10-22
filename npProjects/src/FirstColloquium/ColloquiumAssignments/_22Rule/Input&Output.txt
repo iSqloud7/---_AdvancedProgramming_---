@@ -1,0 +1,30 @@
+INPUT:
+==============================
+2
+151020 10 10 10
+200111 10 9 8 7
+181001
+191020 10 9 8
+201012 6 6
+203001
+
+OUTPUT:
+==============================
+Input: Student{id='151020', grades=[10, 10, 10]}
+Result: 10.0
+Condition not met
+Input: Student{id='200111', grades=[10, 9, 8, 7]}
+Result: 10.0
+Result: 8.5
+Input: Student{id='181001', grades=[]}
+Condition not met
+Condition not met
+Input: Student{id='191020', grades=[10, 9, 8]}
+Result: 10.0
+Condition not met
+Input: Student{id='201012', grades=[6, 6]}
+Condition not met
+Result: 6.0
+Input: Student{id='203001', grades=[]}
+Condition not met
+Result: 5.0

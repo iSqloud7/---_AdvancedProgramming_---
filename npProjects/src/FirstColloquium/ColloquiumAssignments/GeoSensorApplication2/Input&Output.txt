@@ -1,0 +1,25 @@
+INPUT:
+==============================
+1 1 5 1 4
+1 2 4
+2 2 4 6:3 7:9 8:4
+
+1 1 2 1 8
+1 1 2 6:3 7:0 8:4
+2 3 4 4:6 4:8
+
+OUTPUT:
+==============================
+Access point on {1.0, 1.0} distance:5.0 from:1 - to:4
+No readings for sensor: 1
+
+Access point on (1.0, 1.0) distance:2.0 from:1-to:6
+[Sensor(sensorId='1')]
+4.25
+1.5
+[ExtremeValue{sensorId='1',
+min=Measure{timestamp=7, value=0.8},
+max=Measure{timestamp=8, value=4.01},
+ExtremeValue{sensorId='2',
+min=Measure{timestamp=4, value=6.0},
+max=Measure{timestamp=4, value=8.0}}]
